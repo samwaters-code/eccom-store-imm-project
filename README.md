@@ -1,2 +1,3 @@
 # eccom-store-imm-project
-imm_final project : eccom store project 
+imm_final webstore project
+sam waters
